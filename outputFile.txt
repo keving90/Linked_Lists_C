@@ -1,0 +1,96 @@
+49  has been read from the input file and added to the end of the list.
+17  has been read from the input file and added to the end of the list.
+56  has been read from the input file and added to the end of the list.
+85  has been read from the input file and added to the end of the list.
+12  has been read from the input file and added to the end of the list.
+97  has been read from the input file and added to the end of the list.
+33  has been read from the input file and added to the end of the list.
+71  has been read from the input file and added to the end of the list.
+19  has been read from the input file and added to the end of the list.
+62  has been read from the input file and added to the end of the list.
+38  has been read from the input file and added to the end of the list.
+84  has been read from the input file and added to the end of the list.
+51  has been read from the input file and added to the end of the list.
+29  has been read from the input file and added to the end of the list.
+77  has been read from the input file and added to the end of the list.
+65  has been read from the input file and added to the end of the list.
+44  has been read from the input file and added to the end of the list.
+99  has been read from the input file and added to the end of the list.
+4   has been read from the input file and added to the end of the list.
+47  has been read from the input file and added to the end of the list.
+67  has been read from the input file and added to the end of the list.
+41  has been read from the input file and added to the end of the list.
+23  has been read from the input file and added to the end of the list.
+88  has been read from the input file and added to the end of the list.
+73  has been read from the input file and added to the end of the list.
+8   has been read from the input file and added to the end of the list.
+10  has been read from the input file and added to the end of the list.
+100 has been read from the input file and added to the end of the list.
+25  has been read from the input file and added to the end of the list.
+91  has been read from the input file and added to the end of the list.
+58  has been read from the input file and added to the end of the list.
+45  has been read from the input file and added to the end of the list.
+22  has been read from the input file and added to the end of the list.
+15  has been read from the input file and added to the end of the list.
+35  has been read from the input file and added to the end of the list.
+95  has been read from the input file and added to the end of the list.
+60  has been read from the input file and added to the end of the list.
+20  has been read from the input file and added to the end of the list.
+7   has been read from the input file and added to the end of the list.
+50  has been read from the input file and added to the end of the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 71 --> 19 --> 62 --> 38 --> 84 --> 51 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 47 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 25 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The list has been reversed. Here is the current list:
+
+50 --> 7 --> 20 --> 60 --> 95 --> 35 --> 15 --> 22 --> 45 --> 58 --> 91 --> 25 --> 100 --> 10 --> 8 --> 73 --> 88 --> 23 --> 41 --> 67 --> 47 --> 4 --> 99 --> 44 --> 65 --> 77 --> 29 --> 51 --> 84 --> 38 --> 62 --> 19 --> 71 --> 33 --> 97 --> 12 --> 85 --> 56 --> 17 --> 49 --> NULL
+
+The list is now back in its original order.
+
+The user chose to remove 71 from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 38 --> 84 --> 51 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 47 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 25 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The user chose to remove 51 from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 38 --> 84 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 47 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 25 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The user chose to remove 38 from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 84 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 47 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 25 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The user tried to remove 5 from the list, but it is not in the list.
+
+The user tried to remove 0 from the list, but it is not in the list.
+
+The user chose to remove 25 from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 84 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 47 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The user tried to remove 42 from the list, but it is not in the list.
+
+The user tried to remove 32 from the list, but it is not in the list.
+
+The user chose to remove 47 from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 84 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+The user has chosen to stop removing items from the list.
+
+Here is the current list:
+
+49 --> 17 --> 56 --> 85 --> 12 --> 97 --> 33 --> 19 --> 62 --> 84 --> 29 --> 77 --> 65 --> 44 --> 99 --> 4 --> 67 --> 41 --> 23 --> 88 --> 73 --> 8 --> 10 --> 100 --> 91 --> 58 --> 45 --> 22 --> 15 --> 35 --> 95 --> 60 --> 20 --> 7 --> 50 --> NULL
+
+End of run.
