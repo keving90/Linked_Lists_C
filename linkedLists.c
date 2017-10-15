@@ -125,7 +125,7 @@ int isempty(LISTNODEPTR sptr)
 
 /****************************************************************************************/
 
-//Insert the provided value into the list.
+//Insert the provided value into the front of the list.
 
 void insert(LISTNODEPTR *sptr, int value)
 {
