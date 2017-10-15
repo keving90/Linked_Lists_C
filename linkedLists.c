@@ -139,12 +139,14 @@ void insert(LISTNODEPTR *sptr, int value)
 		prevptr         = NULL;
 		currptr         = *sptr;
 
+        //Traverse to the end of the list
 		while((currptr != NULL))
 		{
 			prevptr = currptr;
 			currptr = currptr->nextptr;
 		}
 		
+		//Create a link at the end of the list
 		if (prevptr == NULL)
 		{
 			newptr->nextptr =  *sptr;
@@ -282,8 +284,8 @@ void scanInputFile(FILE *pIn, FILE *pOut, LISTNODEPTR *sptr)
 
 /****************************************************************************************/
 
-//Display the list's information. The information formatting can be presented in two
-//forms.
+//Display the list's information.
+//The information formatting can be presented in two forms.
 
 void displayListInfo(FILE *pOut, LISTNODEPTR *sptr, int choice)
 {
