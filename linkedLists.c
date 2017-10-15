@@ -92,7 +92,7 @@ int main(int argc, char *argv[])
 	//input file is no longer needed
 	fclose(pInFile);
 	
-	//display list into in format form 1
+	//display list info in format form 1
 	displayListInfo(pOutFile, &startptr, 1);
 		
 	printf("Enter a number to be deleted from the list (blank line to stop): ");
